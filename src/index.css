@@ -26,3 +26,31 @@
   width: 100%;
   top: calc(100vh - 40px);
 }
+
+.custom-btn.delete{
+  border: 1px solid red;
+  background-color: #212529;
+  color: red;
+  padding: 0px 4px 2px 4px;
+  transition: border 0.4s ease, background-color 0.4s ease, color 0.4s ease;
+}
+
+.custom-btn.delete:hover{
+  border: 1px solid white;
+  background-color: red;
+  color: white;
+}
+
+.custom-btn.edit {
+  border: 1px solid purple;
+  background-color: #212529;
+  color: purple;
+  padding: 0px 4px 2px 4px;
+  transition: border 0.4s ease, background-color 0.4s ease, color 0.4s ease;
+}
+
+.custom-btn.edit:hover {
+  border: 1px solid white;
+  background-color: purple;
+  color: white;
+}
