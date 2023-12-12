@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;400;500;600;700;800;900&display=swap');
+/* font-family: 'Kanit', sans-serif;  */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900&display=swap');
+/* font-family: 'Nunito', sans-serif;  */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card-body {
+  box-shadow: 6px 6px 5px #808080;
+}
+
+.custom-edit {
+    border: 1px solid #7367f0;
+    color: #7367f0;
+    border-radius: 5px;
+    padding: 0px 5px 3px 5px;
+    background-color: white;
+    transition: color 0.4s ease;
+  }
+  
+  .custom-edit:hover {
+    background-color: #7367f0;
+    color: white;
+  }
+  
+  .custom-delete {
+    border: 1px solid #ea5455;
+    color: #ea5455;
+    border-radius: 5px;
+    padding: 0px 5px 3px 5px;
+    background-color: white;
+    transition: color 0.4s ease;
+  }
+
+.custom-delete:hover {
+  background-color: #ea5455;
+  color: white;
+}
+
+.custom-btn-add {
+  color: white;
+  background-color: #ea5455;
+  border: none;
+  border-radius: 8px;
+  padding: 6px 10px 8px 10px;
+}
+
+.custom-btn-add:hover {
+  background-color: #b84141;
+}
