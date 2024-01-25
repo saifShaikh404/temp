@@ -16,3 +16,4 @@
 4). RN - Simple Dropdown - npm install react-native-select-dropdown
 5). RN - calender picker - npm i react-native-calendars
 6). RN - charts - npm i react-native-chart-kit -- (check docs for downloading sub dependencies)
+7). RN - charts - npm i react-native-gifted-charts -- (check docs for downloading sub dependencies)
