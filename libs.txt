@@ -13,3 +13,6 @@
 1). RN - ripple-effects -- npm i react-native-material-ripple
 2). RN - RN Reanimated (Check Website)
 3). RN - Nativewind(check website)
+4). RN - Simple Dropdown - npm install react-native-select-dropdown
+5). RN - calender picker - npm i react-native-calendars
+6). RN - charts - npm i react-native-chart-kit -- (check docs for downloading sub dependencies)
